@@ -7,6 +7,7 @@
 
 <script>
 import RestaurantList from '@/components/RestaurantList';
+
 export default {
   name: 'RestaurantScreen',
   components: {RestaurantList},
